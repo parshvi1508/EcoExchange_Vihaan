@@ -1,0 +1,21 @@
+{
+    "vendors": [
+        {
+            "id": 0,
+            "name": "EcoRecycle Solutions",
+            "location": "Mumbai",
+            "email": "contact@ecorecycle.com"
+        }
+    ],
+    "materials": [
+        {
+            "id": 0,
+            "title": "Organic Coconut Shells",
+            "category": "Organic Waste",
+            "price_per_unit": 2.5,
+            "quantity_available": 500,
+            "description": "High-quality coconut shells for crafts and activated carbon production",
+            "vendor_id": 0
+        }
+    ]
+}

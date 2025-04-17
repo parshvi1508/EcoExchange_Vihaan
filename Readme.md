@@ -77,3 +77,20 @@ This MVP demo (built with Streamlit) showcases:
 ## Getting Started
 
 1. Clone this repository:
+```
+https://github.com/parshvi1508/EcoExchange_Vihaan
+```
+2. Change the directory
+```
+cd ecoexchange
+```
+3. Activate a virtual environment
+
+4. Install dependencies
+```
+pip install -r requirements.txt
+```
+5. Run the application
+```
+streamlit run app.py
+```
